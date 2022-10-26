@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**ayush03ch/ayush03ch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently studying CSE at UPES
+- 🌱 I’m currently learning C, C++, and Pythonhon
+- ⚛️ Passionate about Astrophysics, Cosmology, and Quantum Mechanics
+- 📫 How to reach me: Twitter:- [@AyushCh03](https://twitter.com/AyushCh03) 
+                       LinkedIn:- [Ayush Chaurasiya](https://www.linkedin.com/in/ayush-chaurasiya-7a4093252/)
+                       Instagram:- [ayush_03ch](https://www.instagram.com/ayush_3ch/)
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: The GitHub is written in Ruby on Rails and Erlang programming language by its cofounders.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
+<img src="https://github-readme-stats.vercel.app/api?username=ayush03ch&&show_icons=true&title_color=4D4DFF&icon_color=bb2acf&text_color=FFFDD0&bg_color=151515">
