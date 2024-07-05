@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently studying CSE at UPES
-- 🌱 I’m currently learning C, C++, and Pythonhon
+- 🌱 I’m currently learning C, C++, and Java
 - ⚛️ Passionate about Astrophysics, Cosmology, and Quantum Mechanics
 - 📫 How to reach me:  Twitter:- [@AyushCh03](https://twitter.com/AyushCh03) 
                        LinkedIn:- [Ayush Chaurasiya](https://www.linkedin.com/in/ayush-chaurasiya-7a4093252/)
