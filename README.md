@@ -10,7 +10,7 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: The GitHub is written in Ruby on Rails and Erlang programming language by its cofounders.
 
--->
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=ayush03ch&&show_icons=true&title_color=ffffF1&icon_color=bb2acf&text_color=FFFD01&bg_color=151515">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ayush03ch&&show_icons=true&title_color=ffffF1&icon_color=bb2acf&text_color=FFFD01&bg_color=151515&hide_rank=true">
